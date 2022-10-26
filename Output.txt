@@ -1,0 +1,3 @@
+Not one to one
+Not onto
+Not bijective
